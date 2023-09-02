@@ -46,4 +46,4 @@ Note
 This script requires the target Instagram account to be public. It cannot retrieve details for private accounts.
 Use this script responsibly and consider the privacy and terms of use of Instagram when fetching user data.
 
-Enjoy using the Instagram Profile Details Fetcher script! If you have any questions or encounter issues, feel free to contact the developer.
+Enjoy using the Instagram Profile Details Fetcher script! If you have any questions or encounter issues, feel free to contact me.
